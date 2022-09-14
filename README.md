@@ -1,4 +1,4 @@
-# Johanneberg Challenge - Snake in p5.js!
+# NTI EU Code Week 2022 - Snake in p5.js!
 
 >The following documentation will provide you with all information needed to participate in the challenge.
 
@@ -29,14 +29,6 @@ As in all competitions we have to base our assessment on something right? Follow
 - Innovation, we'd like to se that the developer thought outside the box!
 - Code quality, we will look at the structure of the code. Is it readable, efficient and easy to follow?
 
-## Deadline
-
-The project has to be done and turned in before **22/11-19** at 11:59PM. You can either send me a link to your GitHub project or just 
-the files as a regular mail: 
-
->ida.lillevra@hotmail.com
-
-
 ## Setup
 
 In this repository I'll provide you with the bare bones of the project, to help you get started! We will use a library for Javascript 
@@ -59,5 +51,5 @@ P5.js library documentation. I will also link some sites below that could come i
 - https://keycode.info/
 - https://htmlcolorcodes.com/
 
-*NTI-Johanneberg will post news on their social media to provide you with information about the afternoon we will gather and go through 
+*NTI will post news on their social media to provide you with information about the afternoon we will gather and go through 
 code and celebrate your fantastic work! Remember to have fun and challenge yourself, good luck!* 
